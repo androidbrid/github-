@@ -17,7 +17,7 @@
 								Android 代码整理计划
 1.基类BaseActivity,BaseFragment的封装（loading加载动画，toash，沉浸式状态栏，6.0运行时权限等等）
 2.MVP模式熟悉
-3.网络请求的整理rxjava+retrofit+okhttp
+3.网络请求的整理rxjava+retrofit+okhttp+rxlifecycle2
 4.通用的tabhost实现方式
 5.视频解码FFmpeg的使用
 6.通用的万能适配器复写
